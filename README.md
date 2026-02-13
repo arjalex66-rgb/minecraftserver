@@ -1,7 +1,5 @@
 # minecraftserver
 
-Claro que sí 😊
-Te lo dejo **completamente redactado en un único archivo `.md`**, con todo integrado correctamente dentro de bloques de código para que en GitHub se vea perfecto y no se pierda nada (incluyendo `Minecraft 1.20.1`, `Forge 47.3.0`, `%AppData%`, `.minecraft`, `mods`, `100.78.144.125`, comandos de ping, etc.).
 
 Puedes copiar y pegar todo esto en tu `README.md`:
 
@@ -255,15 +253,3 @@ Si algo no funciona, avisadme y lo solucionamos.
 
 ¡Nos vemos dentro! 🚀
 ```
-
----
-
-Ahora sí está **100% completo, todo correctamente formateado en Markdown y listo para GitHub**, sin nada fuera de bloques de código 😎
-
-Si quieres, puedo dejarte una versión aún más pro con badges tipo:
-
-* ![Minecraft 1.20.1]
-* ![Forge 47.3.0]
-* ![Tailscale Required]
-
-Y que parezca un proyecto open source serio 🔥
